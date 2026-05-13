@@ -31,3 +31,5 @@ If a project member has been added, and the history of the project shows they ha
   - `testing`
   - `assembly`
 - `verify` - Verifies project and command files for unauthorized changes.
+- `list` - List all projects currently signed up.
+  - `members` - List all members currently signed up in a project.
