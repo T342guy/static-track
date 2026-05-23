@@ -33,3 +33,16 @@ If a project member has been added, and the history of the project shows they ha
 - `verify` - Verifies project and command files for unauthorized changes.
 - `list` - List all projects currently signed up.
   - `members` - List all members currently signed up in a project.
+
+# sys file struct
+```
+.statictrack/
+├─ sysconfig/
+├─ histories/
+├─ projconfig/
+│  ├─ projconfig.toml
+├─ templates/
+│  ├─ systemplate.toml
+├─ usrtemplates/
+│  ├─ usrtemplate.toml
+```
